@@ -1,0 +1,2 @@
+color = "Yellow"
+print(color)
